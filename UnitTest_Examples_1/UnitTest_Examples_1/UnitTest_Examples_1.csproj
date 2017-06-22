@@ -42,8 +42,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Firma.cs" />
+    <Compile Include="MissingNumber.cs" />
+    <Compile Include="Ortschaft.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SimpleSort_Class.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
